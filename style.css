@@ -1,5 +1,8 @@
 body {
      background-color: MediumSeaGreen;
+     background-image: url("blog1.png");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
 }
 
 h1 {
@@ -9,11 +12,12 @@ h1 {
 }
 
 h2 {
-   color: #00008B;
+   color: #FF0000;
+   font-family: Courier New;
 }
    
 p {
-   color: black;
+   color: #33B8FF;
    font-family: Comic Sans MS;'
 }
 
@@ -38,4 +42,5 @@ p {
 .center {
    text-align: center;
 }
+
    
