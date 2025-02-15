@@ -1,3 +1,3 @@
 # This is Luke's Corner of Chaos
-This is basically a personalized blog about me
-If you are coming from my Pumpkin Gaming website, then cool.
+Luke's corner of chaos is my website where I usually post blog posts every monday.
+Since it's in the development phase, im probably gonna post a blog everyday.
