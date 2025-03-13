@@ -1,6 +1,5 @@
-# This is Luke's Corner of Chaos
-Luke's corner of chaos is my website where I usually post blog posts every monday.
-Since it's in the development phase, im probably gonna post a blog everyday.
+# This is Luke's Corner of Chaos Legacy
+Luke's corner of chaos legacy is designed to run on devices running legacy operating systems, like Windows 95.
 
-# Update
-We're going to move to Neocities so our site can get more exposure. We're also going to be styling the page differently, and having more cool stuff!
+# How are we able to do this?
+Because I only really know the basics of the basics when it comes to website designing, this website is able to run on Windows 95, unlike our Neocities site.
