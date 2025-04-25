@@ -1,5 +1,2 @@
-# This is Luke's Corner of Chaos Legacy
-Luke's corner of chaos legacy is designed to run on devices running legacy operating systems, like Windows 95.
-
-# How are we able to do this?
-Because I only really know the basics of the basics when it comes to website designing, this website is able to run on Windows 95, unlike our Neocities site.
+# This is (not) Luke's Corner of Chaos Legacy
+Luke's corner of chaos legacy is gone, as there is things I want to do with the current Lukes Corner of Chaos but Neocities ISN'T letting me do. So instead the Neocities site is a backup and this will be the site with all the features. And this will be the main domain for Lukes Corner of Chaos again.
