@@ -1,51 +1,90 @@
 body {
-     background-color: MediumSeaGreen;
-     background-image: url("blog1.png");
-     background-repeat: no-repeat;
-     background-attachment: fixed;
+     background-color: green;
 }
 
 h1 {
    color: black;
    text-align: center;
-   font-family: impact;
+   font-family: 'Micro 5';
+   background-color: powderblue;
+   text-shadow: 2px 2px 3px dodgerblue;
 }
 
 h2 {
    color: #FF0000;
-   font-family: Courier New;
+   font-family: 'Courier New', monospace;
+   text-align: center;
+   text-shadow: 2px 2px 3px mediumseagreen;
 }
 
 h3 {
-   color: #BC60FF;
-   font-family: Courier New;
+   color: black;
+   font-family: "Micro 5";
+   font-size: 22px;
+   text-align: center;
+   text-shadow: 2px 2px 3px lightgrey;
 }
    
 p {
-   color: #33B8FF;
-   font-family: Comic Sans MS;'
+   color: darkblue;
+   font-family: Comic Sans MS;
 }
 
-.border1 {
-   border-style: ridge;
-   border-width: 8px;
-   border-color: blue;
+marquee {
+   color: darkblue;
+   font-family: Comic Sans MS;
 }
 
-
-.border2 {
-   border-style: dotted;
-   border-width: 8px;
-   border-color: green;
+a:hover {
+  color: lightgrey;
 }
 
-.border3 {
-   border-style: solid;
-   border-width: 6px;
-   border-color: orange;
-
-.center {
-   text-align: center;
+a {
+  font-family: Comic Sans MS;
+  color: darkblue;
+  
 }
 
-   
+.money {
+  background-image: url("https://lukehdplays.neocities.org/money.jpeg");
+  color: lightblue;
+  font-family: Comic Sans MS;
+}
+
+div {
+  background-color: white;
+  padding: 50px;
+  margin: 10px;
+  border: 8px solid darkblue;
+  max-width: 550px;
+  float: left;
+  outline-color: orange;
+  outline-style: dotted;
+}
+
+div2 {
+  background-color: dodgerblue;
+  padding: 10px;
+  margin: 10px;
+  border: 8px ridge dodgerblue;
+  max-width: 200px;
+  float: right;
+  outline-color: orange;
+  outline-style: dotted;
+}
+
+div3 {
+  background-image: url("money.jpeg");
+  padding: 50px;
+  margin: 10px;
+  border: 8px solid darkblue;
+  max-width: 50%;
+  float: left;
+  outline-color: orange;
+  outline-style: dotted;
+}
+
+div4 {
+  padding: 50px;
+  margin: 10px;
+}
