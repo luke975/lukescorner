@@ -27,12 +27,12 @@ h3 {
    
 p {
    color: darkblue;
-   font-family: Comic Sans MS;
+   font-family: Comic Sans MS, Pixelify Sans;
 }
 
 marquee {
    color: darkblue;
-   font-family: Comic Sans MS;
+   font-family: Comic Sans MS, Pixelify Sans;
 }
 
 a:hover {
@@ -40,7 +40,7 @@ a:hover {
 }
 
 a {
-  font-family: Comic Sans MS;
+  font-family: Comic Sans MS, Pixelify Sans;
   color: darkblue;
   
 }
@@ -48,7 +48,7 @@ a {
 .money {
   background-image: url("https://lukehdplays.neocities.org/money.jpeg");
   color: lightblue;
-  font-family: Comic Sans MS;
+  font-family: Comic Sans MS, Pixelify Sans;
 }
 
 div {
