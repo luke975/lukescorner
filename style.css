@@ -1,13 +1,19 @@
+
+
 body {
      background-color: green;
+     width: 1024;
+     cursor: url("thelukeweb.zapto.org/lukescorner/cursor.cur");
 }
+
 
 h1 {
    color: black;
+   background-color: powderblue;
    text-align: center;
    font-family: 'Micro 5';
-   background-color: powderblue;
-   text-shadow: 2px 2px 3px dodgerblue;
+   text-shadow: 2px 2px 3px white;
+   font-size: 32;
 }
 
 h2 {
@@ -54,7 +60,7 @@ a {
 div {
   background-color: white;
   padding: 50px;
-  margin: 10px;
+  margin: 25px;
   border: 8px solid darkblue;
   max-width: 550px;
   float: left;
@@ -65,7 +71,7 @@ div {
 div2 {
   background-color: dodgerblue;
   padding: 10px;
-  margin: 10px;
+  margin: 25px;
   border: 8px ridge dodgerblue;
   max-width: 200px;
   float: right;
